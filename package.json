@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "csv-reader": "^1.0.6",
-    "pg": "^7.18.2"
+    "pg": "^8.11.0"
   }
 }
